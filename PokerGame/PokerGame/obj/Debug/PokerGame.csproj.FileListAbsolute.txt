@@ -1,0 +1,7 @@
+C:\Users\Nick\source\repos\PokerGame\PokerGame\bin\Debug\PokerGame.exe.config
+C:\Users\Nick\source\repos\PokerGame\PokerGame\bin\Debug\PokerGame.exe
+C:\Users\Nick\source\repos\PokerGame\PokerGame\bin\Debug\PokerGame.pdb
+C:\Users\Nick\source\repos\PokerGame\PokerGame\obj\Debug\PokerGame.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\PokerGame\PokerGame\obj\Debug\PokerGame.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\PokerGame\PokerGame\obj\Debug\PokerGame.exe
+C:\Users\Nick\source\repos\PokerGame\PokerGame\obj\Debug\PokerGame.pdb
